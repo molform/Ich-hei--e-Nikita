@@ -27,5 +27,9 @@ img{
   color: black;
   padding: 4px,20px;
   text-decoration: none;
-  text-decoration: wavy;
+  text-align: initial;
+}
+p{
+font-family: 'Bebas Neue', cursive;
+font-family: 'Bruno Ace', cursive;
 }
