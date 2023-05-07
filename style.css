@@ -1,35 +1,33 @@
-body{
-  background-color: aqua;
+
+* {
+  color: #00ccff;
+  text-align: start;  
+}
+p {
+ color: #ff0000;   
+}
+
+div {
+    border-style: dashed;
+    text-align: center;
+    color: #000000;
+}
+p {
+  size: 4;
+  color: chocolate;
+  text-align: center;
+}
+a {
+  size: 7cqmax;
+  color: blue;
 }
 .main{
-  background-color: aliceblue;
-  margin: auto;
-  width: 980px;
-  padding: 20px;
-  margin-top: 30px;
-  border-radius: 16px;
-  border: 2px black solid;
+  color: darkgreen;
+  size: 477cqb;
 }
-img{
-  width: 100%;
+.Lorem {
+  border-radius: 50%; 
+  border: rgb(rgb(255, 0, 0), rgb(55, 0, 255), rgb(0, 255, 42)) ;
+font-size: l866px;
 }
-.mama{
-  background-color: rgb(99, 102, 255);
-  border-radius: 24px;
-  width: 100px;
-  text-decoration: none;
-  padding: 4px;
-}
-img{
-  border-radius: 18px;
-}
- a{
-  color: black;
-  padding: 4px,20px;
-  text-decoration: none;
-  text-align: initial;
-}
-p{
-font-family: 'Bebas Neue', cursive;
-font-family: 'Bruno Ace', cursive;
-}
+section
