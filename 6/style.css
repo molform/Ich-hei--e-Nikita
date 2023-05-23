@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.main1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.main2{
+    float: left;
+    size: 20px;
+}
+.cl1{
+border: solid;
+margin-top: 10px;
+margin: 0 auto;
+margin-bottom: 20px;
+
+}
+.cl2{
+border: solid;
+margin-top: 10px;
+margin: 0 auto;
+margin-bottom: 20px;
+}
+.boba{
+    margin: 0 auto;
+     margin-bottom: 20px;
+     margin-right: 50%
+     
+}
